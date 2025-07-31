@@ -78,7 +78,8 @@ Break these down in your own words or with diagrams:
 - Provides the most flexibility
 - Organizations determine where to run their applications
 - Organizations control security, compliance, or legal requirements
-<!-- This is a hidden note for future edits -->
+
+<!-- This is a hidden note for future edits 
 - Azure Regions & Availability Zones
 - Benefits of Cloud Computing: scalability, cost, elasticity
 - Azure Services Overview: compute, networking, storage, databases
@@ -92,4 +93,4 @@ Include screenshots, CLI commands, or markdown checklists:
 Write 3–5 bullet points on what you learned or clarified this week.
 - What surprised you?
 - What felt confusing at first?
-- What command, tool, or concept was most useful?
+- What command, tool, or concept was most useful?-->
