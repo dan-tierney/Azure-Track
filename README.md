@@ -38,7 +38,7 @@ Break these down in your own words or with diagrams:
 -  Physical hosts
 -  Physical network
 -  Physical datacenter
--  🔽Iaas
+-  🔽IaaS
 - ⚪Custoner responsibilities
 -  Information and data
 -  Devices(Mobile and PC's)
