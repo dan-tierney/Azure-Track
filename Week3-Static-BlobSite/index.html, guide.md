@@ -101,6 +101,6 @@ Copy and paste the primary endpoint into the web browser and your static site sh
 
 
 Here is mine.
-https://staticdemo.z13.web.core.windows.net/
+https://movietime.z13.web.core.windows.net/
 
 
